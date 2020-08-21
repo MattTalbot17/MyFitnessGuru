@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/Profile"
+        android:title="Profile"
+        />
+    <item
+        android:id="@+id/Weight"
+        android:title="Weight"
+        />
+    <item
+        android:id="@+id/Steps"
+        android:title="Steps"
+        />
+    <item
+        android:id="@+id/Gallery"
+        android:title="Gallery"
+        />
+
+</menu>
